@@ -74,7 +74,7 @@
     Wena juanito como estai
   </div>
   <div class="alert alert-secondary" role="alert">
-    A simple secondary alert—check it out!
+    Probando git bash
   </div>
   <div class="alert alert-success" role="alert">
     A simple success alert—check it out!
